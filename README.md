@@ -1,2 +1,3 @@
 # Trex
-Recreation of Trex Game.
+## Recreation of Trex Game.
+Using javaScript.
